@@ -1,2 +1,3 @@
 # modelisme
- Simple database for a mock merchant site
+ example for a simple database for a mock merchant site
+
